@@ -1,0 +1,34 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  background-color: purple;
+  font-family: 'Courier New', Courier, monospace;
+
+}
+
+h1{
+  color: magenta;
+}
+
+h3{
+  color: magenta;
+}
+
+ol{
+  margin: 5p; 
+  background-color: magenta;
+  color: purple;
+  font-weight: bold;
+}
+
+p{
+  color: magenta;
+}
+img {
+  border: solid 10px magenta;
+  border-radius: 20px 20px 20px 20px;
+  
+}
